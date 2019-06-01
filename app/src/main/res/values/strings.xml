@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MobileDevicesProgrammingLab2</string>
+    <string name="enter_word">Enter the word</string>
+    <string name="word">Word</string>
+</resources>
